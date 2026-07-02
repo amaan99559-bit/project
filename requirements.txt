@@ -1,0 +1,7 @@
+streamlit
+mistralai
+python-dotenv
+PyPDF2
+python-docx
+langchain
+langchain-mistralai
